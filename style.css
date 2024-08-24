@@ -41,11 +41,11 @@ p{
 }
 
 .beige {
-    background-color: rgb(0, 0, 255);
+    background-color: blue;
 }
 
 .brown {
-    background-color: gray;
+    background-color: rgb(213, 204, 204);
 }
 
 .square svg {
